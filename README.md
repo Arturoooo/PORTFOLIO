@@ -13,15 +13,15 @@ I started my first serious job in a company of about 500 people. I was mainly re
 ***
 ## Tools 🔧
 * Pycharm     
-* * Git, GitHub         
+* Git, GitHub         
 * Slack       
-* * Jira               
+* Jira               
 * Octane      
-* * Python🐍 (Basics)        
+* Python🐍 (Basics)        
 * Dev Tools   
-* * HTML/CSS (Basics) 
+* HTML/CSS (Basics) 
 * Selenium IDE 
-* * Selenium WebDriver 
+* Selenium WebDriver 
 ## Blogs 📝
 * [testerzy.pl](https://testerzy.pl/)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
@@ -32,4 +32,4 @@ Bugs
 * [RAPORT](https://docs.google.com/document/d/1DMTQFQc5SWxtPLFmR8LGMbJigQWB4C6Or2wcrAN9jKI)
 
 Test Cases
-[Test Cases](https://docs.google.com/document/d/1dieS3d_HYZ9yrfD96ExEOhwueFn9Yy8E7ZpYiQaWhbw/edit)
+* [Cases](https://docs.google.com/document/d/1dieS3d_HYZ9yrfD96ExEOhwueFn9Yy8E7ZpYiQaWhbw/edit)
