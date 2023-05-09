@@ -12,17 +12,15 @@ I started my first serious job in a company of about 500 people. I was mainly re
 * Wstęp do testów automatycznych (Dare.it) 2023
 ***
 ## Tools 🔧
-* Pycharm
-* Git, GitHub 
-* Slack
-* Jira
-* Octane
-* Python🐍 (Basics)
-* Dev Tools
-* HTML/CSS (Basics)
-* Selenium IDE
-* Selenium WebDriver
+| Pycharm       | Git, GitHub         |
+| Slack         | Jira                |
+| Octane        | Python🐍 (Basics)   |        
+| Dev Tools     | HTML/CSS (Basics)   |
+| Selenium IDE  | Selenium WebDriver  |
 ## Blogs 📝
 * [testerzy.pl](https://testerzy.pl/)
-* remigiuszbednarczyk.pl.pl
-* wyszkolewas.com.pl
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
+* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
+## My Projcets 
+Bugs 
+* Bugs on 
