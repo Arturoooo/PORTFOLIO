@@ -9,3 +9,17 @@ I started my first serious job in a company of about 500 people. I was mainly re
 ## Courses 
 * Praktyczny Kurs Testowania Oprogramowania - Noble Work Foundation (UDEMY) 2023
 * Jira Fundamentals Badge (Atlassian) 2022 
+* Wstęp do testów automatycznych (Dare.it) 2023
+***
+## Tools
+* Pycharm
+* Git, GitHub 
+* Slack
+* Jira
+* Octane
+* Python (Basics)
+* Dev Tools
+* HTML/CSS (Basics)
+* Selenium IDE
+* Selenium WebDriver
+## Blogs 
