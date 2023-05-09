@@ -12,14 +12,13 @@ I started my first serious job in a company of about 500 people. I was mainly re
 * Wstęp do testów automatycznych (Dare.it) 2023
 ***
 ## Tools 🔧
+
+
 | Pycharm       | Git, GitHub         |
 | Slack         | Jira                |
 | Octane        | Python🐍 (Basics)   |        
 | Dev Tools     | HTML/CSS (Basics)   |
 | Selenium IDE  | Selenium WebDriver  |
-
-
-
 | Scouts_Panel_text_xpath         | `//*[@id="__next"]/form/div/div[1]/h5`      |
 | Login_input_type_xpath          | `//*[@id="login-label"]`                    |        
 | Password_input_type_xpath       | `//*[@id="password-label"]`                 |
