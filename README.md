@@ -18,8 +18,6 @@ I started my first serious job in a company of about 500 people. I was mainly re
 | Dev Tools     | HTML/CSS (Basics)   |
 | Selenium IDE  | Selenium WebDriver  |
 
-
-
 | Scouts_Panel_text_xpath         | `//*[@id="__next"]/form/div/div[1]/h5`      |
 | Login_input_type_xpath          | `//*[@id="login-label"]`                    |        
 | Password_input_type_xpath       | `//*[@id="password-label"]`                 |
