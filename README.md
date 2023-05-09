@@ -6,12 +6,12 @@ My name is Artur Oszczepaliński and I am currently working as a junior manual t
 ### My Experience 💪
 I started my first serious job in a company of about 500 people. I was mainly responsible for customer service for the online store. However, I have always been interested in IT and I wanted to improve myself in this direction, so I tried and managed to get a job as a junior manual tester. In my current job I am testing banking applications for the German Commerzbank. We use the OCTANE program to report tests.
 ***
-## Courses 
+## Courses 📊
 * Praktyczny Kurs Testowania Oprogramowania - Noble Work Foundation (UDEMY) 2023
 * Jira Fundamentals Badge (Atlassian) 2022 
 * Wstęp do testów automatycznych (Dare.it) 2023
 ***
-## Tools
+## Tools 🔧
 * Pycharm
 * Git, GitHub 
 * Slack
@@ -22,5 +22,7 @@ I started my first serious job in a company of about 500 people. I was mainly re
 * HTML/CSS (Basics)
 * Selenium IDE
 * Selenium WebDriver
-## Blogs 
-* 
+## Blogs 📝
+* testerzy.pl
+* remigiuszbednarczyk.pl.pl
+* wyszkolewas.com.pl
