@@ -23,6 +23,6 @@ I started my first serious job in a company of about 500 people. I was mainly re
 * Selenium IDE
 * Selenium WebDriver
 ## Blogs 📝
-* testerzy.pl (https://testerzy.pl/)
+* [_testerzy.pl_] (https://testerzy.pl/)
 * remigiuszbednarczyk.pl.pl
 * wyszkolewas.com.pl
