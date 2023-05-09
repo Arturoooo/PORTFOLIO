@@ -17,6 +17,16 @@ I started my first serious job in a company of about 500 people. I was mainly re
 | Octane        | Python🐍 (Basics)   |        
 | Dev Tools     | HTML/CSS (Basics)   |
 | Selenium IDE  | Selenium WebDriver  |
+
+| xpath                           | selektor                                    |
+|---------------------------------|---------------------------------------------|
+| Scouts_Panel_text_xpath         | `//*[@id="__next"]/form/div/div[1]/h5`      |
+| Login_input_type_xpath          | `//*[@id="login-label"]`                    |        
+| Password_input_type_xpath       | `//*[@id="password-label"]`                 |
+| Remind_password_hyperlink_xpath | `//*[@id="__next"]/form/div/div[1]/a`       |
+| Language_listbox_xpath          | `//*[@aria-haspopup="listbox"]`             |
+| Sign_in_button_xpath            | `//*[@id="__next"]/form/div/div[2]/button`  |
+
 ## Blogs 📝
 * [testerzy.pl](https://testerzy.pl/)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
