@@ -28,7 +28,7 @@ I started my first serious job in a company of about 500 people. I was mainly re
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 ## My Projcets 
 Bugs 
-* [futbol kolektyw](https://scouts.futbolkolektyw.pl/en/)
+[futbol kolektyw](https://scouts.futbolkolektyw.pl/en/)
 * [RAPORT](https://docs.google.com/document/d/1DMTQFQc5SWxtPLFmR8LGMbJigQWB4C6Or2wcrAN9jKI)
 
 Test Cases
