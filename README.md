@@ -30,6 +30,8 @@ I started my first serious job in a company of about 500 people. I was mainly re
 Bugs 
 * Bugs on [futbol kolektyw](https://scouts.futbolkolektyw.pl/en/)
 [RAPORT](https://docs.google.com/document/d/1DMTQFQc5SWxtPLFmR8LGMbJigQWB4C6Or2wcrAN9jKI)
-**
+
+***
+
 Test Cases
 [Test Cases](https://drive.google.com/drive/folders/1ISabvIE-4knUij46WU5JeVUjCw1CHNOc)
